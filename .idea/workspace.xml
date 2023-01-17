@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b98a2717-1dfd-4309-affc-8e947b542652" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec-2022-html.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/images/bart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/images/homer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/images/lisa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
+    <list default="true" id="b98a2717-1dfd-4309-affc-8e947b542652" name="Changes" comment="add file index.html">
+      <change afterPath="$PROJECT_DIR$/lesson1/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +45,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,11 +57,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673985845026</updated>
-      <workItem from="1673985846079" duration="4092000" />
+      <workItem from="1673985846079" duration="7712000" />
     </task>
+    <task id="LOCAL-00001" summary="add file index.html">
+      <created>1673990227873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673990227873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add file index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file index.html" />
   </component>
 </project>

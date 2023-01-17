@@ -1,0 +1,28 @@
+body {
+    background: #f6f6d1;
+}
+h1 {
+    background: #593c06;
+    color: #dedc8e;
+    text-align: center;
+}
+
+p {
+    background: #e3bc73;
+    color: #2d1701;
+}
+
+h2 {
+    background: cornflowerblue;
+    color: #100f0e;
+    text-align: center;
+}
+
+ul {
+    background: #e1e187;
+    color: #1644a0;
+}
+
+img {
+    width: 200px;
+}
