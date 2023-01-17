@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b98a2717-1dfd-4309-affc-8e947b542652" name="Changes" comment="add file index.html">
-      <change afterPath="$PROJECT_DIR$/lesson1/styles/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b98a2717-1dfd-4309-affc-8e947b542652" name="Changes" comment="add file main.css" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +19,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="22cb7dff-7ec2-4a9c-8c0f-1d7e295a2e02" />
+        <option name="url" value="https://github.com/samolchik/dec-2022-html.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,6 +55,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -57,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673985845026</updated>
-      <workItem from="1673985846079" duration="7712000" />
+      <workItem from="1673985846079" duration="8551000" />
     </task>
     <task id="LOCAL-00001" summary="add file index.html">
       <created>1673990227873</created>
@@ -66,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673990227873</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add file main.css">
+      <created>1673996695452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673996695452</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add file index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file index.html" />
+    <MESSAGE value="add file main.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file main.css" />
   </component>
 </project>
