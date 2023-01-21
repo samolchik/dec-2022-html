@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b98a2717-1dfd-4309-affc-8e947b542652" name="Changes" comment="add file main.css" />
+    <list default="true" id="b98a2717-1dfd-4309-affc-8e947b542652" name="Changes" comment="add file main.css">
+      <change afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/styles/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -50,6 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/olgasamijlenko/Desktop/IdeaProjects/dec-2022-html",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673985845026</updated>
       <workItem from="1673985846079" duration="8551000" />
+      <workItem from="1674241848687" duration="6458000" />
     </task>
     <task id="LOCAL-00001" summary="add file index.html">
       <created>1673990227873</created>

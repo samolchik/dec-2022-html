@@ -1,0 +1,90 @@
+/*Task 1*/
+.main-container {
+    padding: 10px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 400px;
+    color: #fff;
+    border: 2px dashed #233352;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background: #1644a0;
+}
+
+.center {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.center > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background: #4766a2;
+}
+
+.bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    background: #233352;
+}
+
+/*Task 2*/
+
+.container {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    width: 600px;
+    box-sizing: border-box;
+    border: 2px solid cadetblue;
+}
+
+h3 {
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-align: center;
+    color: #980576;
+}
+
+p {
+    color: #100f0e;
+}
+
+.container > div {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    width: 150px;
+    background: whitesmoke;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: lightsteelblue;
+    border-color: #4766a2;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #6c97ec;
+}
