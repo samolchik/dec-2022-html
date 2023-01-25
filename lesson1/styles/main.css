@@ -1,10 +1,16 @@
 body {
     background: #f6f6d1;
 }
+
+a {
+    text-decoration: none;
+}
+
 h1 {
     background: #593c06;
     color: #dedc8e;
     text-align: center;
+    font-size: 36px;
 }
 
 p {
