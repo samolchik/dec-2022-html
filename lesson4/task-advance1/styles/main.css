@@ -1,0 +1,117 @@
+.main-container {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 2000px;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.blue {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: #6c97ec;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 8%;
+}
+
+.logo {
+    margin-right: 10px;
+    width: 30%;
+
+}
+
+.header-menu {
+    width: 100%;
+}
+
+.content {
+    display: flex;
+    max-width: 2000px;
+    width: 100%;
+    height: 80%;
+}
+
+.sidebar {
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    gap: 10px;
+
+}
+
+.nav {
+    max-height: 900px;
+    height: 100%;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    max-width: 2000px;
+    width: 100%;
+    max-height: 150px;
+    height: 100%;
+    gap: 10px;
+}
+
+.store,
+.tools {
+    max-height: 300px;
+    height: 100%;
+}
+
+.products {
+    display: flex;
+    flex-direction: column;
+    max-width: 1600px;
+    width: 100%;
+    gap: 10px;
+}
+
+.section-intro {
+    max-width: 1600px;
+    width: 100%;
+    display: flex;
+    max-height: 150px;
+    height: 100%;
+    gap: 10px;
+}
+
+.intro,
+.types {
+    width: 70%;
+}
+
+.ad,
+.related {
+    width: 30%;
+}
+
+.section-products {
+    display: flex;
+    max-width: 1600px;
+    width: 100%;
+    max-height: 900px;
+    height: 100%;
+    gap: 10px;
+}
+
+.footer {
+    width: 100%;
+    height: 12%;
+}

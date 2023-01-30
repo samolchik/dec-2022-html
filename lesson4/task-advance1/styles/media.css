@@ -1,0 +1,60 @@
+@media screen and (max-width: 768px) {
+
+    .content {
+        flex-direction: column;
+    }
+
+    .blue {
+        font-size: 24px;
+    }
+
+    .sidebar {
+        margin-right: 0;
+        margin-bottom: 10px;
+        /*max-width: 570px;*/
+        width: 100%;
+        height: 13%;
+    }
+
+    .box {
+        display: none;
+        flex-direction: row;
+        width: 100%;
+        gap: 10px;
+    }
+
+    .store,
+    .tools {
+        max-height: 50px;
+        height: 100%;
+        width: 100%;
+    }
+
+    .products {
+        height: 70vh;
+    }
+
+    .section-intro {
+        height: 20%;
+    }
+
+    .section-products {
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .types {
+        max-height: 500px;
+        height: 100%;
+        width: 100%;
+    }
+
+    .related {
+        max-height: 100px;
+        height: 100%;
+        width: 100%;
+    }
+
+
+
+}

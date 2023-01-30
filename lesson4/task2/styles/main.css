@@ -1,0 +1,67 @@
+.main-container {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    max-width: 2000px;
+    width: 100%;
+    height: 100vh;
+}
+
+.large-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 2000px;
+    width: 100%;
+    height: 70%; .box-f
+    gap: 20px;
+}
+
+.box-a,
+.box-b,
+.box-f,
+.box {
+    background-color: silver;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.box-a {
+    margin-bottom: 20px;
+    width: 100%;
+    height: 30%;
+}
+
+.boxes {
+    width: 75%;
+    height: 100%;
+    margin-right: 20px;
+}
+
+.box-b {
+    width: 100%;
+    height: 50%;
+    margin-bottom: 20px;
+}
+
+.small-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 94%;
+    gap: 20px;
+}
+
+.box {
+    width: 100%;
+    height: 50%;
+}
+
+.box-f {
+    width: 24%;
+    height: 100%;
+}

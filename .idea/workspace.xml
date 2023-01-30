@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b98a2717-1dfd-4309-affc-8e947b542652" name="Changes" comment="add new directory lesson2">
-      <change afterPath="$PROJECT_DIR$/lesson3/absolute.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/fixed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/main.css" afterDir="false" />
+    <list default="true" id="b98a2717-1dfd-4309-affc-8e947b542652" name="Changes" comment="add new directory lesson3">
+      <change afterPath="$PROJECT_DIR$/lesson4/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/task-advance1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/task-advance1/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/task-advance1/styles/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/task1/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/task1/styles/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/task2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/task2/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/task2/styles/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -57,7 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/olgasamijlenko/Desktop/IdeaProjects/dec-2022-html",
+    "last_opened_file_path": "/Users/olgasamijlenko/Desktop/IdeaProjects/dec-2022-html/lesson4",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,6 +74,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson4" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673985845026</updated>
       <workItem from="1673985846079" duration="8551000" />
-      <workItem from="1674241848687" duration="19539000" />
+      <workItem from="1674241848687" duration="46621000" />
     </task>
     <task id="LOCAL-00001" summary="add file index.html">
       <created>1673990227873</created>
@@ -100,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674315438674</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add new directory lesson3">
+      <created>1674655959313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674655959313</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +139,7 @@
     <MESSAGE value="add file index.html" />
     <MESSAGE value="add file main.css" />
     <MESSAGE value="add new directory lesson2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new directory lesson2" />
+    <MESSAGE value="add new directory lesson3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new directory lesson3" />
   </component>
 </project>
